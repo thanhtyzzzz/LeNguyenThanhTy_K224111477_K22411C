@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LeNguyenThanhTy_K224111477_K22411C</string>
+    <string name="title_login_user_name">User name:</string>
+    <string name="title_login_user_name_hint">Enter your user name</string>
+    <string name="title_login_password">Password:</string>
+    <string name="title_login_save_login_infor">Save login info</string>
+    <string name="title_login_button_login">Login</string>
+    <string name="confirm_exit_title">Exit confirmation</string>
+    <string name="confirm_exit_message">Are you sure you want to exit?</string>
+    <string name="title_create_task">Create Task</string>
+    <string name="hint_task_title">Enter task title</string>
+    <string name="label_assign_to">Assign to:</string>
+    <string name="label_customer_phones">Customer Phone Numbers:</string>
+    <string name="button_select_customer">Select Customer</string>
+    <string name="button_create_task">Create Task</string>
+    <string name="title_employee_task">Current Task to Call</string>
+    <string name="title_about">About</string>
+    <string name="label_student_id">Student ID:</string>
+    <string name="label_student_name">Student Name:</string>
+    <string name="label_email">Email:</string>
+    <string name="label_class_name">Class Name:</string>
+</resources>
